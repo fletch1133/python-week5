@@ -1,0 +1,1 @@
+export DATABASE_URI="postgresql://anthonyfletcher:bubba@localhost:5432/project-unit-five"
